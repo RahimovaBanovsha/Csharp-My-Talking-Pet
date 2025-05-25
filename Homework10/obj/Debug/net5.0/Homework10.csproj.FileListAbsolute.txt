@@ -1,0 +1,15 @@
+C:\Users\ThinkPad\OneDrive\Desktop\ItStep\C#\Homework10\Homework10\bin\Debug\net5.0\Homework10.exe
+C:\Users\ThinkPad\OneDrive\Desktop\ItStep\C#\Homework10\Homework10\bin\Debug\net5.0\Homework10.deps.json
+C:\Users\ThinkPad\OneDrive\Desktop\ItStep\C#\Homework10\Homework10\bin\Debug\net5.0\Homework10.runtimeconfig.json
+C:\Users\ThinkPad\OneDrive\Desktop\ItStep\C#\Homework10\Homework10\bin\Debug\net5.0\Homework10.runtimeconfig.dev.json
+C:\Users\ThinkPad\OneDrive\Desktop\ItStep\C#\Homework10\Homework10\bin\Debug\net5.0\Homework10.dll
+C:\Users\ThinkPad\OneDrive\Desktop\ItStep\C#\Homework10\Homework10\bin\Debug\net5.0\Homework10.pdb
+C:\Users\ThinkPad\OneDrive\Desktop\ItStep\C#\Homework10\Homework10\obj\Debug\net5.0\Homework10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ThinkPad\OneDrive\Desktop\ItStep\C#\Homework10\Homework10\obj\Debug\net5.0\Homework10.AssemblyInfoInputs.cache
+C:\Users\ThinkPad\OneDrive\Desktop\ItStep\C#\Homework10\Homework10\obj\Debug\net5.0\Homework10.AssemblyInfo.cs
+C:\Users\ThinkPad\OneDrive\Desktop\ItStep\C#\Homework10\Homework10\obj\Debug\net5.0\Homework10.csproj.CoreCompileInputs.cache
+C:\Users\ThinkPad\OneDrive\Desktop\ItStep\C#\Homework10\Homework10\obj\Debug\net5.0\Homework10.dll
+C:\Users\ThinkPad\OneDrive\Desktop\ItStep\C#\Homework10\Homework10\obj\Debug\net5.0\refint\Homework10.dll
+C:\Users\ThinkPad\OneDrive\Desktop\ItStep\C#\Homework10\Homework10\obj\Debug\net5.0\Homework10.pdb
+C:\Users\ThinkPad\OneDrive\Desktop\ItStep\C#\Homework10\Homework10\obj\Debug\net5.0\Homework10.genruntimeconfig.cache
+C:\Users\ThinkPad\OneDrive\Desktop\ItStep\C#\Homework10\Homework10\obj\Debug\net5.0\ref\Homework10.dll
