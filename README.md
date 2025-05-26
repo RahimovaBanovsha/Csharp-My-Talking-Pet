@@ -1,2 +1,2 @@
 "# Csharp-My-Talking-Pet" 
-"# Csharp-My-Talking-Pet" 
+NOT COMPLETE, WILL UPDATE SOME PARTS 
